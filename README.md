@@ -10,11 +10,11 @@ You could modify the architecture of the encoder and decoder for your own design
 
 ### Autoencoder
 
-![](./figure/AE.png)
+![](./figure/AE.png =500)
 
 ### Variational Autoencoder
 
-![](./figure/VAE.png)
+![](./figure/VAE.png =500)
 
 
 ## Built With
